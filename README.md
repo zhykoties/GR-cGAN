@@ -1,5 +1,6 @@
 # Codebase for "Mind Your Step: Continuous Conditional GANs with Generator Regularization"
 
+Authors: Yunkai Zhang*, Yufeng Zheng*, Xueying Ma, Siyuan Teng, Zeyu Zheng (equal contribution).
 
 This repo is based on the released code of "Time-series Generative Adversarial Networks (TimeGAN)".
 
@@ -45,4 +46,15 @@ saved_[cond_length]_klw_[klw].pth.tar. If you use the default parameters, this w
 saved_24_klw_00001.pth.tar.
 ```shell
 $ python3 main_timegan.py --data-name ETTm1 --model cTSGAN_gp
+```
+
+## Citation
+```
+@inproceedings{Zheng22Mind,
+  author    = {Zhang, Yunkai and Zheng, Yufeng and Ma, Xueying and Teng, Siyuan and Zheng, Zeyu},
+  title     = {Mind Your Step: Continuous Conditional GANs with Generator Regularization},
+  year      = {2022},
+  maintitle = {Advances in Neural Information Processing Systems},
+  booktitle = {SyntheticData4ML Workshop},
+}
 ```
