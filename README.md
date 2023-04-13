@@ -1,6 +1,6 @@
 # Codebase for "Mind Your Step: Continuous Conditional GANs with Generator Regularization"
 
-Authors: Yunkai Zhang*, Yufeng Zheng*, Xueying Ma, Siyuan Teng, Zeyu Zheng (equal contribution).
+Authors: Yunkai Zhang*, Yufeng Zheng*, Xueying Ma, Siyuan Teng, Zeyu Zheng (*equal contribution).
 
 This repo is based on the released code of "Time-series Generative Adversarial Networks (TimeGAN)".
 
