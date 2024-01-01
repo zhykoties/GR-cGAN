@@ -50,7 +50,7 @@ $ python3 main_timegan.py --data-name ETTm1 --model cTSGAN_gp
 
 ## Citation
 ```
-@inproceedings{Zheng22Mind,
+@inproceedings{Zhang22Mind,
   author    = {Zhang, Yunkai and Zheng, Yufeng and Ma, Xueying and Teng, Siyuan and Zheng, Zeyu},
   title     = {Mind Your Step: Continuous Conditional GANs with Generator Regularization},
   year      = {2021},
